@@ -1,0 +1,14 @@
+# Scientific and test dependency versions used for the published v1.3 snapshot.
+# Verified locally on Python 3.14; this file is not a cross-platform lockfile.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.0
+threadpoolctl==3.6.0
+statsmodels==0.15.0
+joblib==1.6.0
+packaging==26.3
+patsy==1.0.3
+python-dateutil==2.9.0.post0
+six==1.17.0
+tzdata==2026.3

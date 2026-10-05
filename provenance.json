@@ -1,0 +1,138 @@
+{
+  "analysis_version": "1.3",
+  "snapshot_matches": 2195201,
+  "snapshot_started": "2026-09-26T02:20:42.513097+00:00",
+  "note": "Syntax fingerprints of calculations extracted without changing their function bodies. No dataset or operational pipeline is included.",
+  "calculations": [
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "FEATURES",
+      "syntax_sha256": "8a560a750c4831a0c26be54ac0a705ba6fcd28927e05f0e3e8d5ad1d14aa9c41"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "CONTEXT_LABELS",
+      "syntax_sha256": "d6cb2cf5fb18b495a24976c7dabc50d571199b20a846fd954bac220490fca4a3"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "STYLE",
+      "syntax_sha256": "2ab16cad5adcda2a30e1c19d621c0f46773f394955bb607f7556bdf5283cde5e"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "SEED",
+      "syntax_sha256": "07a68c7544bdcde513f8099f05f5fdced0ddab6136a3a2a240603a3ce2980736"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "cluster_variance",
+      "syntax_sha256": "7e7e7335e7113dbac9b8f61041b7955279d454e390f8d4d0e71e05c32aac8a59"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "balanced_result",
+      "syntax_sha256": "6eb88d254747302e56298297c6150a2e72f3305b54cb6ca2c1aa61595170c561"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "car_rankings",
+      "syntax_sha256": "bd17ecabb34d6fe7862d6de27cfdbe36217b64b17d27801776257d2fa2ab2c4c"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "match_table",
+      "syntax_sha256": "041fd99a0315ba1f14f9b9d06274da4380c71e6d8d4aa2582b5e34fed4699d37"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "temporal_split",
+      "syntax_sha256": "af8ec78494c1c614232934afa79f9f639dff8d2b01083d4f48f008640bfcf332"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "fit_models",
+      "syntax_sha256": "679b2d1b101f334d37604a6a69ef8af91816283e74edb9e112ff9909dd3bef73"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "training_features",
+      "syntax_sha256": "acf6e65965baf4db305611e1e2963692bf48a3013320e217a14ec0f72e0eb276"
+    },
+    {
+      "module": "rocket_data_science/research.py",
+      "symbol": "playing_styles",
+      "syntax_sha256": "28213b23417d4d09e993df00733196066250d0d46a34da6f0cee12a95907dbd7"
+    },
+    {
+      "module": "rocket_data_science/snapshot.py",
+      "symbol": "METADATA",
+      "syntax_sha256": "00e08207295d08100526189fdab5dd97fe0f3e125fdacc7abf02dad47c5cba43"
+    },
+    {
+      "module": "rocket_data_science/snapshot.py",
+      "symbol": "mean_summary",
+      "syntax_sha256": "ece61e5d8aad25fa533f1d07e3b14209a1cab75c6673f43746928b1234bb9a7b"
+    },
+    {
+      "module": "rocket_data_science/cohorts.py",
+      "symbol": "group_modes",
+      "syntax_sha256": "c79ec3cb49a773b6b732b29c946d7f2073669b1c9b8dacb6d4864342b1ddc091"
+    },
+    {
+      "module": "rocket_data_science/cohorts.py",
+      "symbol": "composition",
+      "syntax_sha256": "ee56f3c70937f1b3eb57eb24d8c55fa0b849d46246c28ca3509c927e83c7b252"
+    },
+    {
+      "module": "rocket_data_science/cohorts.py",
+      "symbol": "analysis_cohorts",
+      "syntax_sha256": "70f65bf4e855ecd9f61e4405419142b1772a17ea0a15bafd5fe6e19baaea92a4"
+    },
+    {
+      "module": "rocket_data_science/matched_hitboxes.py",
+      "symbol": "paired_rows",
+      "syntax_sha256": "b5415ecece9f040986e5fe149c2e8eeee71f9f9111a81182d9d6e0179baaaae7"
+    },
+    {
+      "module": "rocket_data_science/matched_hitboxes.py",
+      "symbol": "pair_result",
+      "syntax_sha256": "94994fc7498921b608872dbc4481c283afd0f627b7731541698e8152bab08baf"
+    },
+    {
+      "module": "rocket_data_science/matched_hitboxes.py",
+      "symbol": "compare_switchers",
+      "syntax_sha256": "0e90109721aecbc688cf5bfdefd49261d7728dc13e56c2d0cfa0f8e576c55948"
+    },
+    {
+      "module": "rocket_data_science/profiles.py",
+      "symbol": "MODES",
+      "syntax_sha256": "ee2c0d874438788e1000f7af60fd1372000bfc589ff2e410d202ae099cd66e4d"
+    },
+    {
+      "module": "rocket_data_science/profiles.py",
+      "symbol": "QUEUES",
+      "syntax_sha256": "2113c8d3583abb1753ce64892bdd0213964a514fe31599f7df3c2645938e1bc9"
+    },
+    {
+      "module": "rocket_data_science/profiles.py",
+      "symbol": "recorded_familiarity",
+      "syntax_sha256": "e9df88371f17b49daf6be322441279a7adad6ebaeffd1223a2922f4f0841de51"
+    },
+    {
+      "module": "rocket_data_science/profiles.py",
+      "symbol": "choose",
+      "syntax_sha256": "e84d8f721198995ebded399011779a3f482c451cc99edc26e2478a9f586f592f"
+    },
+    {
+      "module": "rocket_data_science/profiles.py",
+      "symbol": "profiles",
+      "syntax_sha256": "3d672c63df2221c630075323d45c93d6cdeee805b395f6954e20cb66390e8495"
+    },
+    {
+      "module": "rocket_data_science/profiles.py",
+      "symbol": "findings",
+      "syntax_sha256": "a787377b724768e7d69148df9382435c9e77178387e21890daa8538a8c2f0915"
+    }
+  ]
+}

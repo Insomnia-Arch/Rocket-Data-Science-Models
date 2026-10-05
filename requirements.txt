@@ -1,0 +1,6 @@
+numpy>=2,<3
+pandas>=2.2,<4
+scipy>=1.14,<2
+scikit-learn>=1.8,<2
+threadpoolctl>=3,<4
+statsmodels>=0.14,<1
